@@ -1,3 +1,6 @@
 base:
   '*':
-    - something
+   - RoR
+   - git
+   - gitclone
+   - java

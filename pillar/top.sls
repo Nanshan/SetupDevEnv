@@ -1,0 +1,5 @@
+base:
+  '*':
+    - gitrepo
+    - jdk
+    - fileName
